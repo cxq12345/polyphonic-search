@@ -1,0 +1,7 @@
+// .babelrc文件内容如下：
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}
